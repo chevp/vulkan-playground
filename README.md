@@ -1,4 +1,4 @@
-# vulkan-playground# Vulkan Playground
+# Vulkan Playground
 
 A collection of C++ projects exploring Vulkan API - from basic rendering to advanced graphics techniques.
 
